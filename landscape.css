@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+section {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1 {
+  color: green;
+}
+h2 {
+  color: gold;
+}
