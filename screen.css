@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 30px;
+  color: tomato;
+}
+
+h2 {
+  font-size: 28px;
+  color: turquoise;
+}
